@@ -1,4 +1,4 @@
 # Fullstack-knihovna
 
-BlogAPI - vytvore rest API v djangu
+BlogAPI - rozdelane rest API v djangu <br>
 moviebook - rozdelany projekt pro knihovnu filmu
